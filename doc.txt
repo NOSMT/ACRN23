@@ -1,0 +1,15 @@
+Official ACRN Documentation:   (Global Introduction to the Hypervisor)
+https://projectacrn.github.io/latest/introduction/index.html
+
+
+Paper dedicated to ACRN hypervisor: 
+https://dl.acm.org/doi/pdf/10.1145/3313808.3313816
+
+Paper dedicated to ACRN use in time sync:
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9530651
+
+Paper dedicated to testing phase of ACRN combined with Zephyr tech:
+https://www.diva-portal.org/smash/get/diva2:1472100/FULLTEXT01.pdf
+
+Reddit post about issue on 11th generation processor related to ACRN:
+https://www.reddit.com/r/VFIO/comments/yfuip9/quirks_and_personal_experience_on_using_acrn_as/
