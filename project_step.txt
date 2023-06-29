@@ -2,7 +2,16 @@ First step: Reading documentation about the specific ACRN hypervisor (see doc.tx
 
 2nd step: Installing required configuration for ACRN to be installed/run. 
 
+Following:  https://projectacrn.github.io/latest/getting-started/getting-started.html
+
 -Got to install ubuntu Ubuntu Desktop 22.04 LTS on the dev machine
 
 -Got to check for Target Board (I'll be using v2.5 from TIGER LAKE family since I'm suppose to run the hypervisor on a INTEL NUC11TNHi5 processor)
+
 -Got to install Ubuntu Desktop 22.04 LTS on the targeted machine (same reason)
+
+3rd step: Installing and running a RTOS related configuration
+
+Following: https://projectacrn.github.io/latest/getting-started/sample-app.html
+
+

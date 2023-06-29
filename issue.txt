@@ -1,0 +1,18 @@
+CARE ABOUT VERSION USED!!!!!
+
+
+Openssl issue --> solved by using 3.2 acrn version
+
+Security check with root user --> has to be check (solved by runnig acrn-conf with a random user non-root)  --> or launch using sudo ...  ACTUALLY THE CONFIGURATOR NEEDS TO BE LAUNCHED BY NON-ROOT USER, THEN THE FILES CAN BE MOVE TO ROOT'S REPOSITORY
+
+issue with lunching the VM --> got to wait quite longer than expect to actually launch the VM. 
+HAS TO BE LUNCHED WITH SERVICE VM (last one of grub's list) 
+
+
+Careful about the version of Ubuntu installed, it might not match the version shown in the tutorials of ACRN website (you'll need to enter their name at some moments in the configuration)
+
+Bridge related issue --> must create a bridge connection between the VMs, it uses STP which triggers security issue
+
+Lauching first RTOS on the dev computer --> Problems with "Could not open backing file: /home/acrn/acrn-work/hmi_vm.imgCould not open backing filepci virtio-blk init failed"
+
+
